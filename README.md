@@ -17,7 +17,3 @@
 
 <h3>Tools</h3>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pasangimhana&show_icons=true&locale=en&layout=compact" alt="pasangimhana" /></p>
