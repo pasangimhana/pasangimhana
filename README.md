@@ -1,9 +1,9 @@
 <h1>Hi 👋, I'm Pasan Gimhana</h1>
 <h3>In a perfect harmony between logic of C++ and .NET and creativity of UI/UX Design and Front-End Development.</h3>
 
-- 🔭 I’m currently working on **A Simple Compiler with a Lexical Analyzer and a Bison Parser.**
+- 🔭 I’m currently working on **Exchange-Craft - A Simple Alternative Trade System Implementation**
 
-- 🌱 I’m currently learning **.NET, C++, ReactJS**
+- 🌱 I’m currently learning **C++ Design Patterns, C++ Concurrency and Operating Systems**
 
 - 👨‍💻 All of my UI UX Design projects are available at [https://www.behance.net/ceysthetics](https://www.behance.net/ceysthetics)
 
@@ -21,7 +21,3 @@
 <h3>Stats</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pasangimhana&show_icons=true&locale=en&layout=compact" alt="pasangimhana" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pasangimhana&show_icons=true&locale=en" alt="pasangimhana" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pasangimhana&" alt="pasangimhana" /></p>
