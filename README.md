@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Pasan Gimhana</h1>
+<h2>Hi 👋, I'm Pasan Gimhana</h2>
 <h3>In a perfect harmony between logic of C++ and .NET and creativity of UI/UX Design and Front-End Development.</h3>
 
 - 🔭 I’m currently working on **Exchange-Craft - A Simple Alternative Trade System Implementation**
