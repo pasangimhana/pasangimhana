@@ -1,5 +1,5 @@
 # 💫About Me :
-👋 Hi there! I'm a .NET Developer who enjoys building applications and a Rust enthusiast exploring low-level programming. I love working on advanced system modeling and always eager to collaborate on interesting projects. 💻🔧
+👋 Hi there! I'm a Backend Developer who enjoys building applications and a Rust enthusiast exploring low-level programming. I love working on advanced system modeling and always eager to collaborate on interesting projects. 💻🔧
 
 ### 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pasangimhana) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@pasangimhanaofficial) 
